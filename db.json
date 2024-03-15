@@ -1,14 +1,27 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "id": 1,
+      "title": "Kacang Telur Manis",
+      "description": "Kacang Telur Manis Omiyago (netto 150 gr)\n\nKacang telur manis Omiyago dibuat dari kacang tanah lokal berkualitas dan campuran bumbu rempah asli Indonesia. Renyah dan gurih dengan balutan tepung bercampur telur dan tidak berminyak. Kacang telur manis menjadi salah satu produk asli Omiyago yang diracik oleh ahli dengan komposisi yang pas. Tektur dan rasa asli kacang yang tetap terjaga dengan balutan tepung yang lembut karena campuran telur di dalamnya.\n\nKacang tanah sebagai bahan utama camilan Kacang Telur Omiyago dalam takaran yang tepat memiliki banyak manfaat saat dikonsumsi. Diantaranya mengandung vitamin E, asam folat, protein, serat, lemak tak jenuh tunggal, serta kaya akan antioksidan. Kandungan nutrisi berperan dalam mengurangi resiko penyakit jantung dimana sebuah penelitian menemukan resiko sakit jantung bisa menurun hingga 35% dengan mengkonsumsi 140 gram kacang-kacangan per minggu. Secara khusus kacang tanah juga sangat baik untuk Anda yang sedang diet karena akan cepat membuat merasa kenyang dan nutrisi yang dimiliki kacang tanah mengandung lemak sehat dan serat.\n\nKemasan Kacang Telur Omiyago kini hadir dalam toples yang terlihat lebih manis, cocok untuk dijadikan oleh-oleh, sebagai camilan keluarga atau kudapan untuk menyambut tamu di rumah. Camilan ini diproduksi oleh UKM mitra yang tentunya dengan pandampingan dan pengawasan dari tim Omiyago sehingga mutunya terjamin. Dengan berbelanja produk berlabel Omiyago, Anda turut membantu pertumbuhan ekonomi mitra kami. Omiyago, simbol camilan khas Nusantara berkualitas.",
+      "main_price": 40000,
+      "images": [
+        "https://am-assets.aladinmall.id/stub/seller/omiyago_bpjxojxuht_jpeg1703056289734",
+        "https://am-assets.aladinmall.id/stub/seller/omiyago_esqdoqkvsj_jpg1703056293236",
+        "https://am-assets.aladinmall.id/stub/seller/omiyago_pemfjmoefp_jpg1703056297763",
+        "https://am-assets.aladinmall.id/stub/seller/omiyago_sxoyjtlgqx_jpg1703056300900"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kopi Seruput Susu",
+      "description": "<p>Kopi Seruput Bubuk Baru !!<br />Terbuat Dari Biji Kopi Terbaik Indonesia<br />Perpaduan Cita Rasa Original Kopi Indonesia dengan Kopi, Gula dan Susu. <br />Lengkapi Keseruan Tradisi Asli Indonesia !!<br />Tunjukkan Gaya Seruputmu ! Mari Seruput !!</p>",
+      "main_price": 18000,
+      "special_price": 12000,
+      "images": [
+        "https://am-cdn-01.aladinmall.id/media/catalog/product/k/o/kopi-seruput-susu-tulen-1-renteng---10-x-28-gr.jpg",
+        "https://am-cdn-01.aladinmall.id/media/catalog/product/2/0/20220808-banner-tokped-seruput-1500x1500px--copy_1.jpg"
+      ]
+    }
+  ]
 }
